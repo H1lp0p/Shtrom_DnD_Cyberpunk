@@ -11,10 +11,14 @@
             "id": "96a550332504ec5a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Новая вкладка"
+              "type": "split-diff-view",
+              "state": {
+                "aFile": ".obsidian/community-plugins.json",
+                "bFile": ".obsidian/community-plugins.json",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: community-plugins.json  (Working Tree)"
             }
           }
         ]
@@ -90,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Роли/07_КОЧЕВНИК (Контрабандист).md",
+                "file": "1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для 07_КОЧЕВНИК (Контрабандист)"
+              "title": "Обратные ссылки для 1"
             }
           },
           {
@@ -160,13 +164,23 @@
               "icon": "lucide-list",
               "title": "Структура 07_КОЧЕВНИК (Контрабандист)"
             }
+          },
+          {
+            "id": "0c0962bdde41aac1",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 289.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -176,11 +190,13 @@
       "daily-notes:Сегодняшняя заметка": false,
       "templates:Вставить шаблон": false,
       "command-palette:Открыть палитру команд": false,
-      "bases:Создать новую базу": false
+      "bases:Создать новую базу": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f6113969eb625f7d",
+  "active": "96a550332504ec5a",
   "lastOpenFiles": [
+    "1.md",
     "gitignore",
     "Shtrom_DnD_Cyberpunk/Роли/07_КОЧЕВНИК (Контрабандист).md",
     "Shtrom_DnD_Cyberpunk/Роли/06_ФИКСЕР (Информатор).md",
