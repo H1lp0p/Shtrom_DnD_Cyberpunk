@@ -1,0 +1,217 @@
+{
+  "main": {
+    "id": "e4452de130e2b522",
+    "type": "split",
+    "children": [
+      {
+        "id": "48b2303249beb043",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "96a550332504ec5a",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Новая вкладка"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ff6fed0665c7a1a2",
+    "type": "split",
+    "children": [
+      {
+        "id": "f07f025433406af3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f6113969eb625f7d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "a8e73e46218b3367",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "a819d323741fb3c2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "646da8a4496f8d29",
+    "type": "split",
+    "children": [
+      {
+        "id": "f05afa1a551bdb04",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "050316911dc7692d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Роли/07_КОЧЕВНИК (Контрабандист).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для 07_КОЧЕВНИК (Контрабандист)"
+            }
+          },
+          {
+            "id": "2019969d0fcd64e7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Роли/07_КОЧЕВНИК (Контрабандист).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из 07_КОЧЕВНИК (Контрабандист)"
+            }
+          },
+          {
+            "id": "b7616597feb90da6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "75d885e8aba34807",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Все свойства"
+            }
+          },
+          {
+            "id": "c13566260ffe1f6f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Роли/07_КОЧЕВНИК (Контрабандист).md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура 07_КОЧЕВНИК (Контрабандист)"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "bases:Создать новую базу": false
+    }
+  },
+  "active": "f6113969eb625f7d",
+  "lastOpenFiles": [
+    "gitignore",
+    "Shtrom_DnD_Cyberpunk/Роли/07_КОЧЕВНИК (Контрабандист).md",
+    "Shtrom_DnD_Cyberpunk/Роли/06_ФИКСЕР (Информатор).md",
+    "Shtrom_DnD_Cyberpunk/Роли/05_РОКЕРБОЙ (Творец).md",
+    "Shtrom_DnD_Cyberpunk/Роли/04_ТЕХНИК (Инженер).md",
+    "Shtrom_DnD_Cyberpunk/Роли/03_МЕДТЕХНИК (Доктор).md",
+    "Shtrom_DnD_Cyberpunk/Роли/02_НЕТРАННЕР (Хакер).md",
+    "Shtrom_DnD_Cyberpunk/Роли/01_СОЛО (Наемник).md",
+    "Shtrom_DnD_Cyberpunk/Роли",
+    "Shtrom_DnD_Cyberpunk/База/02_Импланты.md",
+    "Shtrom_DnD_Cyberpunk/База/01_Снаряжение.md",
+    "Shtrom_DnD_Cyberpunk/База/00_Правила.md",
+    "Shtrom_DnD_Cyberpunk/База",
+    "Shtrom_DnD_Cyberpunk",
+    "Роли/06_ФИКСЕР (Информатор).md",
+    "База/01_Снаряжение.md",
+    "Роли/03_МЕДТЕХНИК (Доктор).md",
+    "Роли/07_КОЧЕВНИК (Контрабандист).md",
+    "База/Транспорт.md",
+    "База/02_Импланты.md",
+    "Роли/05_РОКЕРБОЙ (Творец).md",
+    "Роли/04_ТЕХНИК (Инженер).md",
+    "Роли/02_НЕТРАННЕР (Хакер).md",
+    "Роли/01_СОЛО (Наемник).md",
+    "База/00_Правила.md",
+    "Роли",
+    "Cyberpunk core/00_Ядро.md",
+    "База",
+    "Cyberpunk core/07_Equipment.md",
+    "Cyberpunk core/01_Role_Solo.md",
+    "Cyberpunk core/06_Role_Fixer.md",
+    "Cyberpunk core"
+  ]
+}
