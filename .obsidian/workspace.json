@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1/Терра.md",
+                "file": "1/Хью Джекман.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Терра"
+              "title": "Хью Джекман"
             }
           },
           {
@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "База/0.2_Снаряжение.md",
+                "file": "1/Хью Джекман.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0.2_Снаряжение"
+              "title": "Хью Джекман"
             }
           },
           {
@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -237,20 +237,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0c0962bdde41aac1",
+  "active": "dd9141f47406b9d9",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "База/0.2_Снаряжение.md",
+    "1/Хью Джекман.md",
     "1/Терра.md",
+    "conflict-files-obsidian-git.md",
     "test.md",
     "gitignore",
     "База/0.3_Импланты.md",
-    "База/0.2_Снаряжение.md",
     "Роли/1.2_НЕТРАННЕР (Хакер).md",
     "1/Максим.md",
     "Роли/1.1_СОЛО (Наемник).md",
     "База/0.1_Правила.md",
     "База/0.0_Введение.md",
-    "1/Хью Джекман.md",
     "Роли/1.6_ФИКСЕР (Информатор).md",
     "Роли/1.7_КОЧЕВНИК (Контрабандист).md",
     "Роли/1.3_МЕДТЕХНИК (Доктор).md",
