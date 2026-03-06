@@ -13,26 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Роли/1.1_СОЛО (Наемник).md",
+                "file": "1/Терра.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.1_СОЛО (Наемник)"
+              "title": "Терра"
             }
           },
           {
-            "id": "c963cab6addd5090",
+            "id": "20e9fb3b6e590596",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
+                "file": "Роли/1.2_НЕТРАННЕР (Хакер).md",
+                "mode": "preview",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: workspace.json  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "1.2_НЕТРАННЕР (Хакер)"
             }
           },
           {
@@ -237,26 +237,28 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c963cab6addd5090",
+  "active": "0c0962bdde41aac1",
   "lastOpenFiles": [
-    "База/0.1_Правила.md",
-    "Роли/1.1_СОЛО (Наемник).md",
-    "1/Катя.md",
-    "1/Максим.md",
-    "1/Хью Джекман.md",
+    "conflict-files-obsidian-git.md",
+    "1/Терра.md",
+    "test.md",
+    "gitignore",
     "База/0.3_Импланты.md",
     "База/0.2_Снаряжение.md",
+    "Роли/1.2_НЕТРАННЕР (Хакер).md",
+    "1/Максим.md",
+    "Роли/1.1_СОЛО (Наемник).md",
+    "База/0.1_Правила.md",
+    "База/0.0_Введение.md",
+    "1/Хью Джекман.md",
     "Роли/1.6_ФИКСЕР (Информатор).md",
     "Роли/1.7_КОЧЕВНИК (Контрабандист).md",
     "Роли/1.3_МЕДТЕХНИК (Доктор).md",
     "Роли/1.4_ТЕХНИК (Инженер).md",
     "Роли/1.5_РОКЕРБОЙ (Творец).md",
-    "Роли/1.2_НЕТРАННЕР (Хакер).md",
-    "База/0.0_Введение.md",
     "База/0.4_Общая предыстория.md",
     "1",
     "deepseek_markdown_20260306_a4db30.md",
-    "gitignore",
     "Shtrom_DnD_Cyberpunk/Роли/07_КОЧЕВНИК (Контрабандист).md",
     "Shtrom_DnD_Cyberpunk/Роли/06_ФИКСЕР (Информатор).md",
     "Shtrom_DnD_Cyberpunk/Роли/05_РОКЕРБОЙ (Творец).md",
@@ -265,8 +267,6 @@
     "Shtrom_DnD_Cyberpunk/Роли/02_НЕТРАННЕР (Хакер).md",
     "Shtrom_DnD_Cyberpunk/Роли/01_СОЛО (Наемник).md",
     "Shtrom_DnD_Cyberpunk/Роли",
-    "Shtrom_DnD_Cyberpunk/База/02_Импланты.md",
-    "Shtrom_DnD_Cyberpunk/База/01_Снаряжение.md",
     "Shtrom_DnD_Cyberpunk/База",
     "Shtrom_DnD_Cyberpunk",
     "Роли",
