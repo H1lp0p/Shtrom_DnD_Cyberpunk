@@ -11,14 +11,28 @@
             "id": "96a550332504ec5a",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/community-plugins.json",
-                "bFile": ".obsidian/community-plugins.json",
-                "aRef": ""
+                "file": "База/0.1_Снаряжение.md",
+                "mode": "preview",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: community-plugins.json  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "0.1_Снаряжение"
+            }
+          },
+          {
+            "id": "ebef97c2dbbb907a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "База/0.1_Снаряжение.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "0.1_Снаряжение"
             }
           }
         ]
@@ -78,7 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 212.5
   },
   "right": {
     "id": "646da8a4496f8d29",
@@ -180,7 +194,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 289.5
+    "width": 330.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -194,9 +208,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "96a550332504ec5a",
+  "active": "f6113969eb625f7d",
   "lastOpenFiles": [
-    "1.md",
+    "База/0.0_Правила.md",
+    "База/0.1_Снаряжение.md",
+    "База/0.2_Импланты.md",
+    "Роли/1.1_СОЛО (Наемник).md",
+    "Роли/1.2_НЕТРАННЕР (Хакер).md",
+    "Роли/1.3_МЕДТЕХНИК (Доктор).md",
+    "Роли/1.4_ТЕХНИК (Инженер).md",
+    "Роли/1.5_РОКЕРБОЙ (Творец).md",
+    "Роли/1.6_ФИКСЕР (Информатор).md",
+    "Роли/1.7_КОЧЕВНИК (Контрабандист).md",
+    "1/Катя.md",
+    "1/Тимофей.md",
+    "1",
+    "1/Максим.md",
+    "deepseek_markdown_20260306_a4db30.md",
     "gitignore",
     "Shtrom_DnD_Cyberpunk/Роли/07_КОЧЕВНИК (Контрабандист).md",
     "Shtrom_DnD_Cyberpunk/Роли/06_ФИКСЕР (Информатор).md",
@@ -211,23 +239,9 @@
     "Shtrom_DnD_Cyberpunk/База/00_Правила.md",
     "Shtrom_DnD_Cyberpunk/База",
     "Shtrom_DnD_Cyberpunk",
-    "Роли/06_ФИКСЕР (Информатор).md",
-    "База/01_Снаряжение.md",
-    "Роли/03_МЕДТЕХНИК (Доктор).md",
-    "Роли/07_КОЧЕВНИК (Контрабандист).md",
     "База/Транспорт.md",
-    "База/02_Импланты.md",
-    "Роли/05_РОКЕРБОЙ (Творец).md",
-    "Роли/04_ТЕХНИК (Инженер).md",
-    "Роли/02_НЕТРАННЕР (Хакер).md",
-    "Роли/01_СОЛО (Наемник).md",
-    "База/00_Правила.md",
     "Роли",
-    "Cyberpunk core/00_Ядро.md",
     "База",
-    "Cyberpunk core/07_Equipment.md",
-    "Cyberpunk core/01_Role_Solo.md",
-    "Cyberpunk core/06_Role_Fixer.md",
     "Cyberpunk core"
   ]
 }

@@ -1,0 +1,18 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "ХАР": "number",
+    "eb": "number",
+    "Инвентарь": "text",
+    "Очки": "number",
+    "Инициатива": "number",
+    "Предмет1_слот": "number",
+    "Предмет2_слот": "number",
+    "Предмет3_слот": "number",
+    "Предмет4_слот": "number",
+    "Предмет5_слот": "number",
+    "Предмет6_слот": "number"
+  }
+}
